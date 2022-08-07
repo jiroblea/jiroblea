@@ -3,7 +3,7 @@
 - 🌱 I am currently learning different programming languages due to university. I use Python as my primary programming language. 
 - 💞️ I am hoping I can work with you soon!
 
-- HackerRank: @jirooblea
+- HackerRank: hackerrank.com/jirooblea
 
 
 <!---
